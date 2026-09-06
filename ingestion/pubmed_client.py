@@ -406,3 +406,4 @@ class PubMedClient:
             )
 
             return None
+
