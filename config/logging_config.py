@@ -2,6 +2,7 @@ import logging
 import sys
 
 
+
 def setup_logging(name: str) -> logging.Logger:
     logger = logging.getLogger(name)
 
